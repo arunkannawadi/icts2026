@@ -1,6 +1,9 @@
-# Directory owners — changes under each path request review from these users.
-# To enforce: Settings → Branches → Branch protection → Require review from Code Owners.
+# Directory owners — path changes request review from these users.
+# Enforce via branch protection: Require review from Code Owners.
 
 /ChandanWatts/ @arunkannawadi @ChandanWatts
-/gaurishankarhari/ @arunkannawadi @gaurishankarhari
 /Mehar-Chawla/ @arunkannawadi @Mehar-Chawla
+/Rudrani18/ @arunkannawadi @Rudrani18
+/ayan-cosmos/ @arunkannawadi @ayan-cosmos
+/gaurishankarhari/ @arunkannawadi @gaurishankarhari
+/kumarpranshu/ @arunkannawadi @kumarpranshu
